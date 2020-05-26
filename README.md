@@ -1,7 +1,8 @@
 # springpeople
 code repo for heroku 
-surya repo
+surya hyd repo
 day1
+
 
 <!--This Activator template gets you started building java app  -->
 
